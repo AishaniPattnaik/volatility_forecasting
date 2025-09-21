@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.23
+yfinance>=0.2.25
+arch>=5.3.1
+scikit-learn>=1.1
+matplotlib>=3.5
+tensorflow>=2.11
+keras>=2.11
+joblib>=1.2
+seaborn>=0.12
